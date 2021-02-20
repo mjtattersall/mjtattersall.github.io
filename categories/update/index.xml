@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on M.J. Tattersall Author&#39;s Page</title>
+    <link>https://mjtattersall.github.io/categories/update/</link>
+    <description>Recent content in Update on M.J. Tattersall Author&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>M.J. Tattersall 2021</copyright>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mjtattersall.github.io/categories/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my website</title>
+      <link>https://mjtattersall.github.io/posts/welcome-post/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjtattersall.github.io/posts/welcome-post/</guid>
+      <description>Hello. Welcome to my website. Here you will find information relating to my work as a novelist and academic. Please feel free to check out my professional links, and posts containing updates on my work to date.
+The site is completely barebones at the minute as I am in the (very slow) process of creating a website with no prior coding experiences. All languages are beautiful&amp;ndash;even computer-speak&amp;ndash; but it&amp;rsquo;s always hard work learning new ones.</description>
+    </item>
+    
+  </channel>
+</rss>

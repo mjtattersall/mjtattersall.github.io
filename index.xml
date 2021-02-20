@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.J. Tattersall Author&#39;s Page</title>
+    <link>https://mjtattersall.github.io/</link>
+    <description>Recent content on M.J. Tattersall Author&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>M.J. Tattersall 2021</copyright>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mjtattersall.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Author</title>
+      <link>https://mjtattersall.github.io/posts/about/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjtattersall.github.io/posts/about/</guid>
+      <description>M.J. Tattersall is a writer and PhD academic based out of the Department of English Literature and Creative Writing at Lancaster University, UK. He is currently writing a novel about John Ruskin&amp;rsquo;s silent decade, 1890-1900, and is fascinated by Ruskin&amp;rsquo;s continuing relevance today. The novel, which is being written in part-fulfilment of M.J.&amp;rsquo;s doctoral research, explores neo-Victorian and epistolary fiction&amp;rsquo;s relevance to notions of séance as well as their links to the prophetic biblical patterning of Ruskin&amp;rsquo;s own works.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my website</title>
+      <link>https://mjtattersall.github.io/posts/welcome-post/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjtattersall.github.io/posts/welcome-post/</guid>
+      <description>Hello. Welcome to my website. Here you will find information relating to my work as a novelist and academic. Please feel free to check out my professional links, and posts containing updates on my work to date.
+The site is completely barebones at the minute as I am in the (very slow) process of creating a website with no prior coding experiences. All languages are beautiful&amp;ndash;even computer-speak&amp;ndash; but it&amp;rsquo;s always hard work learning new ones.</description>
+    </item>
+    
+  </channel>
+</rss>
